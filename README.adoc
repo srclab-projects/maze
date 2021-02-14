@@ -1,0 +1,6 @@
+= _Welcome, and well lost~_
+Sun Qian <fredsuvn@163.com>
+v0.0.0, 2021-2-14
+:encoding: UTF-8
+
+* link:eggs/[eggs]
